@@ -39,6 +39,7 @@
 
 - Suib SDK supports Banner, Interstitial, Native, Native Video andRewarded Video.
 - Suib Android SDK supports Android API 15+.
+- The Suib SDK needs to obtain oaid information to provide advertising display. The SDK relies on the unified call SDK of mobile intelligent terminal supplementary device identification system. For specific docking methods, please refer to the only official address of the mobile security alliance: http://www.msa-alliance.cn/col.jsp?Id=120 to complete the docking
 - Please make sure you have added an app and at least one ad slot in Suib Platform.
 
 ## <a name="integration">Integration Suib SDK</a>  
